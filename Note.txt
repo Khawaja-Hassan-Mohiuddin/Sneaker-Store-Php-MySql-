@@ -1,0 +1,3 @@
+1). Create an Upload Folder inside the project folder for file uploadation
+2).The Home page /storepage will not show until users get logined
+3).There is no payment method inside
